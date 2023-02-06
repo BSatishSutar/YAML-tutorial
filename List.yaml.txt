@@ -1,0 +1,12 @@
+#use hash symbol to add comments as usual, if needed
+#This is List type
+#always add space before and after colon
+#See here after linkedin, peerlist, medium etc. there is no space before and after (-) symbol
+#for Indentation add 2 spaces in beginning of line. DO NOT use Tab for space coz YAML doesn't understand Tab
+
+Social_media : 
+  - linkedIn-https://www.linkedin.com/in/satish-sutar/
+  - peerlist-https://peerlist.io/satishsutar
+  - medium-https://medium.com/@AWSCloudEngineer
+  - hashnode-https://hashnode.com/@Satish-S
+  - twitter-https://twitter.com/SatishSutar_
