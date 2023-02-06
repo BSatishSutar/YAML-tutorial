@@ -1,0 +1,6 @@
+#This is key-value type
+
+#always add space before and after colon
+
+name : Satish Sutar
+age : 32

@@ -1,0 +1,4 @@
+food :
+  fruits : Apple, Mango, Pineapple, Watermelon
+  Vegetables : Palak, Methi, Capsicum, Cauliflower
+  Dairy : Milk, Dahi, Paneer, Ghee
